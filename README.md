@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gamal</h1>
-<h3 align="center">Flutter Developer | Full-Stack Learner | Robotics & AI Enthusiast</h3>
+<h3 align="center">Flutter Developer </h3>
 
 ---
 
