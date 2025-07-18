@@ -10,8 +10,8 @@
   - [Fitness Tracker App - Flutter + .NET + Firebase](#)  
   - [Search Engine - React + Node.js + Python](#)  
   - [Emoji App - Android Java](#)  
-- 💬 Ask me about: `Flutter`, `Firebase`, `.NET`, `Docker`, `html`, `css`
-- 📫 Reach me at: **ahmedgamal.cs3@gmail.com**
+- 💬 Ask me about: `Flutter`, `Firebase`,  `Docker`, `html`, `css`
+- 📫 Reach me at: **ag2107@fayoum.edu.eg**
 - 💼 LinkedIn: [Ahmed El-Sawy](https://www.linkedin.com/in/ahmed-el-sawy44)
 
 ---
