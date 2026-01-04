@@ -42,7 +42,7 @@
 ### 🛠️ Tools & DevOps  
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/jira/jira-icon.svg" width="40" alt="Jira"/>
+  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" width="40" alt="Jira"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" alt="GitHub"/>
 </p>
 
