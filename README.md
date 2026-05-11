@@ -206,7 +206,7 @@
 
 <div align="center">
 
-<h1>أهلاً 👋، أنا أحمد جمال الصوي</h1>
+<h1>أهلاً 👋، أنا أحمد جمال الصاوي</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=مطور+Flutter+📱;مهندس+أتمتة+اختبار+🤖;محب+للبرمجة+🧩;أتعلم+دائماً+🌱)](https://git.io/typing-svg)
 
